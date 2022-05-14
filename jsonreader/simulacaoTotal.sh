@@ -1,7 +1,7 @@
 #!/bin/bash
 ###########################################################
 #Shell script for sequenced execution of the ExecuteONS.jar, JsonReader.jar, and GnuplotONS.jar programs.
-#Author: Lucas Rodrigues Costa
+#Author: XXXXXX
 #Objective: To simulate ONS
 ###########################################################
 
